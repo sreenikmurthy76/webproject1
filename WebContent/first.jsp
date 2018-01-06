@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>farst JSP</title>
+<title>first JSP</title>
 </head>
 <body>
 Installed Tomcat <br>
 which resolved Servlet related classpath error <br>
 and also gave me a runtime.
-This is edited in Orion - second time
+Edited in Eclipse and uploaded to git
 
 </body>
 </html>
